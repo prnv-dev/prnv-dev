@@ -23,7 +23,6 @@
 <div align="center">
   <br>
   <h3>🐍 CONTRIBUTION JOURNEY</h3>
-  <p><i>Every contribution moves the journey forward.</i></p>
 
   <picture>
     <source
