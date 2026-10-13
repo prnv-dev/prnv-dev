@@ -28,3 +28,7 @@
 </p>
 
 <p align="center"><sub>Curious by default. Building with intent.</sub></p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prnv-dev/prnv-dev/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
+</div>
