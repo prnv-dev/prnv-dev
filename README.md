@@ -20,10 +20,6 @@
   <a href="https://t.me/Techie_boy_45" target="_blank">Telegram — @Techie_boy_45</a>
 </p>
 
-<p align="center">
-  <sub>Curious by default. Building with intent.</sub>
-</p>
-
 <div align="center">
   <br>
   <h3>🐍 CONTRIBUTION JOURNEY</h3>
