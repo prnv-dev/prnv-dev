@@ -39,6 +39,6 @@
   </picture>
 
   <br>
-  <sub>BUILT WITH CONSISTENCY · POWERED BY CODE</sub>
+  <sub>CREATING WHAT'S NEXT · ONE LINE OF CODE AT A TIME</sub>
   <br><br>
 </div>
