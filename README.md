@@ -24,18 +24,23 @@
   <sub>Curious by default. Building with intent.</sub>
 </p>
 
-<!-- PREMIUM GITHUB CONTRIBUTION SNAKE -->
 <div align="center">
   <br>
-
   <h3>🐍 CONTRIBUTION JOURNEY</h3>
   <p><i>Every contribution moves the journey forward.</i></p>
 
-  <img
-    src="https://raw.githubusercontent.com/prnv-dev/prnv-dev/output/github-snake-dark.svg"
-    alt="Pranav's GitHub Contribution Snake Animation"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/prnv-dev/prnv-dev/output/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/prnv-dev/prnv-dev/output/github-snake.svg">
+    <img
+      src="https://raw.githubusercontent.com/prnv-dev/prnv-dev/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%">
+  </picture>
 
   <br>
   <sub>BUILT WITH CONSISTENCY · POWERED BY CODE</sub>
