@@ -24,6 +24,16 @@
   <br>
   <h3>🐍 CONTRIBUTION JOURNEY</h3>
 
+  <!-- Isometric 3D GitHub Contribution Graph -->
+  <img
+    src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=prnv-dev&width=1200&height=700&theme=custom&colors=161b22%2C1f4b99%2C2878ff%2C529bff%2Ca5d6ff&bg=101827&border=388bfd&accent=79c0ff&stats=true&credit=true"
+    alt="Pranav's GitHub Contributions — Isometric 3D Graph"
+    width="100%"
+  />
+
+  <br><br>
+
+  <!-- GitHub Contribution Snake -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
