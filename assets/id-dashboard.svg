@@ -22,7 +22,7 @@
 <rect x="520" y="519" width="575" height="12" rx="3" fill="#132842" stroke="none" />
 <rect x="520" y="519" width="420.0" height="12" rx="3" fill="#247bff"><animate attributeName="width" begin="0s" dur="2s" values="0;0;420.0" keyTimes="0;.25;1" fill="freeze" /></rect>
 <text x="1122" y="529" font-size="21" fill="#f2f5ff" style="fill:#f2f5ff" class="mono">3</text>
-<text x="520" y="571" font-size="11.5" class="mono"><tspan fill="#f2f5ff" font-weight="700">RELAY</tspan><tspan fill="#57769e"> · </tspan><tspan fill="#8aa7cf" font-size="10.5">PC-to-PC file transfer over local networks.</tspan></text>
+<text x="520" y="571" font-size="11.5" class="mono"><tspan fill="#f2f5ff" font-weight="700">RANDOM PASSWORD GENERATOR</tspan><tspan fill="#57769e"> · </tspan><tspan fill="#8aa7cf" font-size="10.5">Secure password, encryption and hashing tools.</tspan></text>
 <rect x="520" y="584" width="575" height="12" rx="3" fill="#132842" stroke="none" />
 <rect x="520" y="584" width="280.0" height="12" rx="3" fill="#247bff"><animate attributeName="width" begin="0s" dur="2s" values="0;0;280.0" keyTimes="0;.25;1" fill="freeze" /></rect>
 <text x="1122" y="594" font-size="21" fill="#f2f5ff" style="fill:#f2f5ff" class="mono">2</text><rect x="520" y="635" width="632" height="117" rx="10" fill="#0b1b33" stroke="#2c5b96" /><rect x="537" y="652" width="76" height="28" rx="5" fill="#ff354f" stroke="none" /><text x="549" y="671" font-size="10" fill="#f2f5ff" style="fill:#f2f5ff" class="mono" letter-spacing="1">BUILDING</text><text x="537" y="706" font-size="29" class="" >Building Real-World Software</text><text x="537" y="731" font-size="11" fill="#88a9d3" style="fill:#88a9d3" class="mono" >AI, Full Stack Development &amp; SaaS Products.</text></g></svg>
