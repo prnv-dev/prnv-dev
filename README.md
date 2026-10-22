@@ -51,3 +51,13 @@
   <sub>CREATING WHAT'S NEXT · ONE LINE OF CODE AT A TIME</sub>
   <br><br>
 </div>
+
+<br>
+
+<div align="center">
+
+> ### 🔒 A quick note
+> **My most important products and software live in private repositories.**
+> So please don't judge my work by the public repos you see here — they're only a small slice of what I build.
+
+</div>
